@@ -1,10 +1,10 @@
 # revenge-themes
 
-Thèmes pour [Revenge](https://github.com/revenge-mod/revenge-bundle) (Discord mobile), au format spec 3.
+Thèmes pour [Revenge](https://github.com/revenge-mod/revenge-bundle) (Discord mobile).
 
 ## Catppuccin Mocha – Mauve
 
-Adapté de [catppuccin/vendetta](https://github.com/catppuccin/vendetta) (licence MIT).
+Copie du thème de [catppuccin/vendetta](https://github.com/catppuccin/vendetta) (licence MIT, voir `LICENSE`), au format Vendetta « spec 2 », le seul que Revenge lit entièrement (côté JS et côté natif).
 
 Dans Revenge : Paramètres → Thèmes → « + », puis colle :
 
